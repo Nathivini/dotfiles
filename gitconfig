@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = nathaliemiriam.roth@gmail.com
+	name = Nathalie Roth
